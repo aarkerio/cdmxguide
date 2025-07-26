@@ -7,7 +7,9 @@ What do you need to know before visiting Mexico City.
 
 Mexico City is a big city, 22 million people call it home. With a Human Development Index of 0.830, the city falls into the "very high" category. Its GDP per capita is over USD$30,000, making the city (besides São Paulo), the richest area in Latin America. With a high productivity services based economy, the city is by far the main country's economic engine. Financial, healthcare, business, logistic, software and retail trade are parts of the sectors in its economy. Recently, the city has become a center for the filming and entertainment industries.
 
-Even when there is evidence of hunter-gatherers living near Chapultepec five thousand years ago, oficialy, the city was founded in 1325. So, this year we are celebrating its 700 anniversary. According to the legend, the Aztec people leave their land, Aztlán, to wander for decades seeking a new country for them (until today, nobody knows where Aztlán was). Hutizilopochtli, the Aztec god of the Sun, blood and war, told his people that they should found a new city where they watch an eagle eating a snake. They found the longed-for vision in the middle of a lake, in the Anáhuac Valley. Now the image is our national symbol.
+Even when there is evidence of hunter-gatherers living near Chapultepec five thousand years ago, oficialy, the city was founded in 1325. So, this year we are celebrating its 700 anniversary. According to the legend, the Aztec people leave their land, Aztlán, to wander for decades seeking a new country for them (until today, nobody knows where Aztlán was). Hutizilopochtli, the Aztec god of Sun, blood and war, told his people that they should found a new city where they watch an eagle eating a snake. They found the longed-for vision in the middle of a lake, in the Anáhuac Valley. Now the image is our national symbol.
+
+![Bandera de México](https://raw.githubusercontent.com/aarkerio/cdmxguide/refs/heads/main/img/bandera.webp)
 
 
 

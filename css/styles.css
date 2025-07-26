@@ -1,0 +1,38 @@
+/* Basic styles for H1 headings */
+h1 {
+  font-size: 2.5em; /* Adjust font size as needed (e.g., 2.5 times the base font size) */
+  color: #333; /* Dark gray color */
+  margin-top: 0.67em; /* Default top margin */
+  margin-bottom: 0.67em; /* Default bottom margin */
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center align the text */
+}
+
+
+/* Basic styles for H1 headings */
+h2 {
+  font-size: 2.5em; /* Adjust font size as needed (e.g., 2.5 times the base font size) */
+  color: #333; /* Dark gray color */
+  margin-top: 0.67em; /* Default top margin */
+  margin-bottom: 0.67em; /* Default bottom margin */
+  font-weight: bold; /* Bold text */
+  text-align: center; /* Center align the text */
+}
+
+/* Basic styles for H3 headings */
+h3 {
+  font-size: 1.5em; /* Adjust font size as needed */
+  color: #555; /* Slightly lighter gray color */
+  margin-top: 1em; /* Default top margin */
+  margin-bottom: 1em; /* Default bottom margin */
+  font-weight: normal; /* Normal font weight */
+  text-align: left; /* Left align the text */
+}
+
+.ctr_img {
+  padding: inherit;
+  margin:auto;
+  width: auto;
+  display: block;
+  text-align: center;
+}
